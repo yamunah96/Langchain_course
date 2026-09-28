@@ -1,0 +1,120 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "My fav langauge is Java",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "That's great! Java is a powerful and versatile language. \ud83d\ude0a If you ever want to dive deeper\u2014whether it\u2019s about OOP concepts, streams, concurrency, or anything else\u2014just let me know!",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 85,
+                    "prompt_tokens": 93,
+                    "total_tokens": 178,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": null,
+                        "audio_tokens": null,
+                        "reasoning_tokens": 35,
+                        "rejected_prediction_tokens": null
+                    },
+                    "prompt_tokens_details": null,
+                    "queue_time": 0.049756098,
+                    "prompt_time": 0.003537282,
+                    "completion_time": 0.180192836,
+                    "total_time": 0.183730118
+                },
+                "model_provider": "openai",
+                "model_name": "openai/gpt-oss-120b",
+                "system_fingerprint": "fp_24c9ecc6e8",
+                "id": "chatcmpl-ec3d2986-cc64-4a88-bc4b-cbe6b3024811",
+                "service_tier": "on_demand",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "lc_run--019e8e6a-d7e8-7762-9e02-a4ce047b0df1-0",
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 93,
+                "output_tokens": 85,
+                "total_tokens": 178,
+                "input_token_details": {},
+                "output_token_details": {
+                    "reasoning": 35
+                }
+            }
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "whats my fav langauge",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Your favorite language is Java.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 46,
+                    "prompt_tokens": 150,
+                    "total_tokens": 196,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": null,
+                        "audio_tokens": null,
+                        "reasoning_tokens": 31,
+                        "rejected_prediction_tokens": null
+                    },
+                    "prompt_tokens_details": null,
+                    "queue_time": 0.047793053,
+                    "prompt_time": 0.006583026,
+                    "completion_time": 0.097567808,
+                    "total_time": 0.104150834
+                },
+                "model_provider": "openai",
+                "model_name": "openai/gpt-oss-120b",
+                "system_fingerprint": "fp_bc9a6c9b5f",
+                "id": "chatcmpl-b309c0a0-3339-42fb-b93f-bf47b794f0d3",
+                "service_tier": "on_demand",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "lc_run--019e8e6a-d9e9-7080-9000-44b2adea3147-0",
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 150,
+                "output_tokens": 46,
+                "total_tokens": 196,
+                "input_token_details": {},
+                "output_token_details": {
+                    "reasoning": 31
+                }
+            }
+        }
+    }
+]

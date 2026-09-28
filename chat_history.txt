@@ -1,0 +1,16 @@
+Customer: Hi, I ordered a Lakmé foundation and Maybelline lipstick from Nykaa last week, but I received the wrong shade for the foundation.
+Customer Care: Hello! Sorry for the inconvenience. Could you please share your order ID?
+Customer: Sure, my order ID is NYK12345678.
+Customer Care: Thank you. I checked your order and see that you ordered Lakmé 9to5 Primer + Matte Foundation in the shade Warm Beige.
+Customer: Yes, but I received the shade Cool Ivory instead.
+Customer Care: I understand. We can arrange a replacement or refund for the incorrect product. Which would you prefer?
+Customer: I would like a replacement, please.
+Customer Care: Sure! Your replacement request has been initiated. The correct product will be delivered within 5-7 business days.
+Customer: Thank you. Also, the Maybelline lipstick packaging looked slightly damaged.
+Customer Care: We apologize for that. If the product itself is damaged, you can upload images in the app for a return or refund request.
+Customer: Okay, I’ll upload the images today.
+Customer Care: Perfect! Once verified, our team will update you within 24 hours.
+Customer: One more thing, can I know if the replacement product will be checked before shipping?
+Customer Care: Yes, our warehouse team will verify the shade and packaging before dispatching the replacement product.
+Customer: Great, thank you for the support.
+Customer Care: You're welcome! Thank you for shopping with Nykaa. Have a great day!

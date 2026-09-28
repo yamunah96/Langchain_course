@@ -1,0 +1,61 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "My fav langauge is python",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "That\u2019s great! Python\u2019s simplicity and versatility make it a fantastic choice. If you ever want tips, project ideas, or help with any Python concepts, just let me know! \ud83d\ude80",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 78,
+                    "prompt_tokens": 93,
+                    "total_tokens": 171,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": null,
+                        "audio_tokens": null,
+                        "reasoning_tokens": 31,
+                        "rejected_prediction_tokens": null
+                    },
+                    "prompt_tokens_details": null,
+                    "queue_time": 0.162415935,
+                    "prompt_time": 0.003727684,
+                    "completion_time": 0.163195425,
+                    "total_time": 0.166923109
+                },
+                "model_provider": "openai",
+                "model_name": "openai/gpt-oss-120b",
+                "system_fingerprint": "fp_5a93aea882",
+                "id": "chatcmpl-77970f5e-ecd5-470e-a64b-8c0b3bd88050",
+                "service_tier": "on_demand",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "lc_run--019e8e6a-d39e-70e0-b351-9a25b3da4100-0",
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 93,
+                "output_tokens": 78,
+                "total_tokens": 171,
+                "input_token_details": {},
+                "output_token_details": {
+                    "reasoning": 31
+                }
+            }
+        }
+    }
+]
